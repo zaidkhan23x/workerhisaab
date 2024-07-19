@@ -3,3 +3,4 @@ aaj ka hisaab 1200 rupay
 19 june ka hisaab 1100 INR ho gya hai
 ab total hisaab kar log 1200+1300+1100
 ye raha total hisaab total=3600
+3600 rupay de diya
